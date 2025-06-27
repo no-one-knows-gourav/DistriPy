@@ -1,8 +1,8 @@
 ---
 
-### `CONTRIBUTING.md`
+### CONTRIBUTING.md
 
-```markdown
+
 # Contributing to DistriPy
 
 Thank you for your interest in contributing to DistriPy!
@@ -37,6 +37,7 @@ We aim to keep math accurate and symbolic logic clean. Please ensure that any sy
 
 Be respectful, curious, and encouraging. We’re all learning here—so share, ask, and grow with kindness. Let us keep the spirit of learning and experimenting alive! 
 
-# with love, 
-# Saigourav Sahoo  
-## Student at the Indian Institute of Technology, Kanpur
+### with love, 
+Saigourav Sahoo  
+
+Student at the Indian Institute of Technology, Kanpur
