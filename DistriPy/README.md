@@ -1,6 +1,6 @@
 # DistriPy
 
-DistriPy is a lightweight Python library for learning, experimenting, visualising and symbolically manipulatiing probability distributions and stochastic processes 
+DistriPy is a lightweight Python library for learning, experimenting, visualising and symbolically manipulating probability distributions and stochastic processes.
 
 This library is intended for educational and visualisation purposes and supports symbolic representations to make it academically user-friendly. Currently, this is a solo project but contributions in the form of commits or feedback are highly appreciated. For more information check out CONTRIBUTIONS.md 
 
