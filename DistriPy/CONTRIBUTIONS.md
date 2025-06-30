@@ -11,8 +11,9 @@ This project is built as an educational and exploratory tool, so contributions t
 
 ---
 
-## 💡 What You Can Contribute
+## What You Can Contribute
 
+- Fix bugs
 - Implement new types of distributions 
 - Add discrete distributions 
 - Extend stochastic process modules 
@@ -22,7 +23,7 @@ This project is built as an educational and exploratory tool, so contributions t
 
 ---
 
-## ⚙️ How to Contribute
+## How to Contribute
 
 1. Fork the repository
 2. Clone your fork:
